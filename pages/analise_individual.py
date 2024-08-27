@@ -191,11 +191,11 @@ if(lojas_selecionadas == "Pátio"):
     st.write(f"""
     ## Análise Detalhada do Desempenho Financeiro do Pátio
 
-    Entre outubro de 2022 e julho de 2023, o Pátio enfrentou variações significativas em seu desempenho financeiro, com momentos de lucro e também de prejuízos consideráveis. O pico de lucro foi em dezembro de 2022, com R$ 34,441.98, enquanto que o maior prejuízo ocorreu em novembro de 2022, com R$ -7,096.64.
+    Entre outubro de 2022 e julho de 2023, o Pátio enfrentou variações significativas em seu desempenho financeiro, com momentos de lucro e também de prejuízos consideráveis. O pico de lucro foi em dezembro de 2022, com R\$ 34,441.98, enquanto que o maior prejuízo ocorreu em novembro de 2022, com R\$ -7,096.64.
 
-    Apesar do aumento das vendas em dezembro de 2023, o lucro alcançou R$ 26,056.85, marcando um decréscimo em comparação ao pico do ano anterior, mas ainda representando um resultado robusto para o mês.
+    Apesar do aumento das vendas em dezembro de 2023, o lucro alcançou R\$ 26,056.85, marcando um decréscimo em comparação ao pico do ano anterior, mas ainda representando um resultado robusto para o mês.
 
-    A situação em julho de 2024 melhorou substancialmente, registrando um lucro de R$ 14,635.59, uma recuperação notável em comparação com o prejuízo de novembro de 2023, refletindo uma gestão mais eficaz das despesas e possivelmente um aumento de vendas.
+    A situação em julho de 2024 melhorou substancialmente, registrando um lucro de R\$ 14,635.59, uma recuperação notável em comparação com o prejuízo de novembro de 2023, refletindo uma gestão mais eficaz das despesas e possivelmente um aumento de vendas.
 
     Comparando os lucros acumulados dos períodos de outubro de 2022 a julho de 2023 com outubro de 2023 a julho de 2024, (R\$ {lucro_acumulado_2022_2023:,.2f} x R\$ {lucro_acumulado_2023_2024:,.2f}), observa-se que houve uma tendência de crescimento na capacidade do Pátio de gerar lucros mais consistentes, apesar dos desafios inerentes ao mercado e à operação.
 
